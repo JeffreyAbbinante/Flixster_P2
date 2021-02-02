@@ -23,7 +23,7 @@
 
 ### Notes
 
-Describe any challenges encountered while building the app.
+I needed to set API 29 for the YouTube playback to work right.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
